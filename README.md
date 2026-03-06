@@ -1,23 +1,79 @@
-# Hello, I'm Elena👋
 
-✨ Frontend Engineer known for crafting intuitive user experiences and scalable web applications. With expertise in React, JavaScript, and a passion for software engineering best practices, I'm dedicated to delivering exceptional results.<br>
-🔭 Sharpening my skills in React and JavaScript to create seamless UI components and design systems, while diving into AWS to explore cloud computing solutions.<br>
-💬 Frontend development, React, JavaScript, and designing user experiences. Let's chat about how we can collaborate on impactful projects!<br>
-💼 I'm actively looking for new opportunities in frontend development where I can contribute my skills and expertise. Let's connect and explore how I can bring value to your team!<br>
+# Elena Diaz — Frontend Engineer
 
-Thank you for visiting! Let's build something amazing together! ✨ <br>
+React · TypeScript · UI Architecture · Accessibility
 
+---
 
-# 💻 Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
-# 📊 GitHub Stats
+## What I Build
+
+I design and build scalable frontend systems for enterprise and client-facing applications.  
+My focus is on component architecture, design systems, and accessible, production-ready interfaces.
+
+8 years of experience delivering frontend engineering across healthcare, energy, and creative industries.  
+Currently preparing for software engineering roles in **Tokyo, Japan**.
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Full-Stack Contact Form** | Three-part technical deep dive — React frontend, Node.js/Express backend, email integration via Nodemailer. Documented end-to-end in a published article series on dev.to. | React, Node.js, Express, Nodemailer, REST API |
+
+📄 [Read the article series on dev.to](https://dev.to/elenadiaz32505/part-1-full-stack-contact-form-getting-started-react-frontend-2023-1bh4)
+
+> Additional projects from Iroiro Web Studio (full lifecycle: Figma → React → deployment) are being cleaned and documented. Coming soon.
+
+---
+
+## Architecture Focus
+
+- Component-driven UI systems with clear separation of concerns
+- Feature-based folder structure and API abstraction layers
+- Scalable state management patterns (Redux, Context)
+- Accessible interfaces — WCAG 2.1, Section 508 compliant
+- Design system implementation with Storybook and Figma collaboration
+
+---
+
+## Tech Stack
+
+**Frontend**  
+React · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · Material UI · Styled Components
+
+**Tooling & Architecture**  
+Vite · Redux · Storybook · Jest · Git · CI/CD (Azure DevOps)
+
+**Backend & Integration**  
+Node.js · REST APIs · JWT Authentication · SQL
+
+**UX & Accessibility**  
+WCAG 2.1 · Section 508 · Figma · Keyboard Navigation · Screen Reader Support
+
+---
+
+## Currently Learning
+
+- Japanese language — actively studying for professional environments
+- Engineering with AI tools — integrating AI-assisted development workflows into frontend engineering practice
+- Deepening TypeScript patterns for large-scale frontend systems
+
+---
+
+## GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=diazelena325&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diazelena325&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=diazelena325&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+---
 
+## Contact
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/elenadiazse/)
+- 🌐 [Portfolio](https://www.elenadiaz.space)
+- 📬 [Email](mailto:elenadiaz32505@gmail.com)
+
+---
+
+*Interested in teams building global products with strong engineering culture.*  
+*Open to frontend engineering roles in Tokyo and remote positions with Japan-based teams.*
