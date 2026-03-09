@@ -19,9 +19,9 @@ Currently preparing for software engineering roles in **Tokyo, Japan**.
 
 | Project | Description | Stack |
 |---|---|---|
-| **Full-Stack Contact Form** | Three-part technical deep dive — React frontend, Node.js/Express backend, email integration via Nodemailer. Documented end-to-end in a published article series on dev.to. | React, Node.js, Express, Nodemailer, REST API |
+| **Full-Stack Contact Form** | Three-part technical deep dive — React frontend, Node.js/Express backend, email integration via Nodemailer. Documented end-to-end in a published article series on dev.to. [Read the article series on dev.to](https://dev.to/elenadiaz32505/part-1-full-stack-contact-form-getting-started-react-frontend-2023-1bh4) | React, Node.js, Express, Nodemailer, REST API |
 
-📄 [Read the article series on dev.to](https://dev.to/elenadiaz32505/part-1-full-stack-contact-form-getting-started-react-frontend-2023-1bh4)
+
 
 > Additional projects from Iroiro Web Studio (full lifecycle: Figma → React → deployment) are being cleaned and documented. Coming soon.
 
